@@ -1,0 +1,8 @@
+D:\KULIAH\SEM-2\Pemrograman\22.11.4852\4852CalculatorTugas1\4852CalculatorTugas1\bin\Debug\4852CalculatorTugas1.exe.config
+D:\KULIAH\SEM-2\Pemrograman\22.11.4852\4852CalculatorTugas1\4852CalculatorTugas1\bin\Debug\4852CalculatorTugas1.exe
+D:\KULIAH\SEM-2\Pemrograman\22.11.4852\4852CalculatorTugas1\4852CalculatorTugas1\bin\Debug\4852CalculatorTugas1.pdb
+D:\KULIAH\SEM-2\Pemrograman\22.11.4852\4852CalculatorTugas1\4852CalculatorTugas1\obj\Debug\4852CalculatorTugas1.csproj.AssemblyReference.cache
+D:\KULIAH\SEM-2\Pemrograman\22.11.4852\4852CalculatorTugas1\4852CalculatorTugas1\obj\Debug\4852CalculatorTugas1.csproj.SuggestedBindingRedirects.cache
+D:\KULIAH\SEM-2\Pemrograman\22.11.4852\4852CalculatorTugas1\4852CalculatorTugas1\obj\Debug\4852CalculatorTugas1.csproj.CoreCompileInputs.cache
+D:\KULIAH\SEM-2\Pemrograman\22.11.4852\4852CalculatorTugas1\4852CalculatorTugas1\obj\Debug\4852CalculatorTugas1.exe
+D:\KULIAH\SEM-2\Pemrograman\22.11.4852\4852CalculatorTugas1\4852CalculatorTugas1\obj\Debug\4852CalculatorTugas1.pdb
